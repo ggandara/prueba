@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 	<name>myproject-name</name>
 	<description>my-project-description</description>
-
+	<!-- Comentarrio agregado -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<junit.version>4.10</junit.version>
